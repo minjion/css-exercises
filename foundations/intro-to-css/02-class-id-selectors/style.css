@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    font-family: Verdana, dejavu sans, sans-serif;
+    background-color: pink;
+}
+
+#seconddiv {
+    color: blue;
+    font-size: 26px;
+
+}
+
+.biggerfont{
+    font-size:24px
+}
+#forthdiv {
+    color: green;
+    font-size: 20px;
+    font-weight: bold;;
+}
